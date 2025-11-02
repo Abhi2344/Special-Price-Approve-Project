@@ -67,3 +67,296 @@
 2025-10-28 12:09:27,027 INFO /usr/local/bin/bench serve --port 8000
 2025-10-28 12:09:27,145 INFO /usr/local/bin/bench schedule
 2025-10-28 12:09:27,443 INFO /usr/local/bin/bench worker
+2025-10-29 14:55:13,818 INFO /usr/local/bin/bench start
+2025-10-29 14:55:18,265 INFO /usr/local/bin/bench serve --port 8000
+2025-10-29 14:55:18,493 INFO /usr/local/bin/bench schedule
+2025-10-29 14:55:18,750 INFO /usr/local/bin/bench worker
+2025-10-29 14:55:18,779 INFO /usr/local/bin/bench watch
+2025-10-29 15:49:00,038 INFO /usr/local/bin/bench migrate
+2025-10-29 15:50:37,756 INFO /usr/local/bin/bench restart
+2025-10-29 15:50:45,304 INFO /usr/local/bin/bench start
+2025-10-29 15:50:48,578 INFO /usr/local/bin/bench serve --port 8000
+2025-10-29 15:52:53,049 INFO /usr/local/bin/bench start
+2025-10-29 15:52:55,093 INFO /usr/local/bin/bench watch
+2025-10-29 15:52:55,504 INFO /usr/local/bin/bench schedule
+2025-10-29 15:52:56,141 INFO /usr/local/bin/bench worker
+2025-10-29 15:52:56,156 INFO /usr/local/bin/bench serve --port 8000
+2025-10-29 15:58:58,221 INFO /usr/local/bin/bench restart
+2025-10-29 15:59:08,371 INFO /usr/local/bin/bench start
+2025-10-29 16:00:54,712 INFO /usr/local/bin/bench start
+2025-10-29 16:00:56,064 INFO /usr/local/bin/bench worker
+2025-10-29 16:00:56,733 INFO /usr/local/bin/bench schedule
+2025-10-29 16:00:56,805 INFO /usr/local/bin/bench watch
+2025-10-29 16:00:57,751 INFO /usr/local/bin/bench serve --port 8000
+2025-10-29 16:20:58,119 INFO /usr/local/bin/bench clear-cache
+2025-10-29 16:21:15,408 INFO /usr/local/bin/bench clear-website-cache
+2025-10-29 16:21:27,066 INFO /usr/local/bin/bench migrate
+2025-10-29 16:22:52,057 INFO /usr/local/bin/bench restart
+2025-10-29 16:23:00,477 INFO /usr/local/bin/bench start
+2025-10-29 16:25:44,347 INFO /usr/local/bin/bench start
+2025-10-29 16:25:44,888 INFO /usr/local/bin/bench serve --port 8000
+2025-10-29 16:25:44,955 INFO /usr/local/bin/bench schedule
+2025-10-29 16:25:45,005 INFO /usr/local/bin/bench watch
+2025-10-29 16:25:45,020 INFO /usr/local/bin/bench worker
+2025-10-29 18:00:03,284 INFO /usr/local/bin/bench --verbose --site all backup
+2025-10-30 00:13:05,174 INFO /usr/local/bin/bench start
+2025-10-30 00:13:08,782 INFO /usr/local/bin/bench serve --port 8000
+2025-10-30 00:13:09,236 INFO /usr/local/bin/bench watch
+2025-10-30 00:13:09,677 INFO /usr/local/bin/bench schedule
+2025-10-30 00:13:10,045 INFO /usr/local/bin/bench worker
+2025-10-30 00:25:37,960 INFO /usr/local/bin/bench migrate
+2025-10-30 00:26:43,410 INFO /usr/local/bin/bench restart
+2025-10-30 00:26:46,676 INFO A newer version of bench is available: 5.25.11 → 5.26.0
+2025-10-30 00:26:55,705 INFO /usr/local/bin/bench start
+2025-10-30 00:28:28,081 INFO /usr/local/bin/bench start
+2025-10-30 00:28:29,321 INFO /usr/local/bin/bench watch
+2025-10-30 00:28:29,751 INFO /usr/local/bin/bench serve --port 8000
+2025-10-30 00:28:29,814 INFO /usr/local/bin/bench schedule
+2025-10-30 00:28:30,429 INFO /usr/local/bin/bench worker
+2025-10-30 00:28:49,149 INFO /usr/local/bin/bench start
+2025-10-30 00:28:50,208 INFO /usr/local/bin/bench serve --port 8000
+2025-10-30 00:28:50,226 INFO /usr/local/bin/bench watch
+2025-10-30 00:28:50,280 INFO /usr/local/bin/bench schedule
+2025-10-30 00:28:51,955 INFO /usr/local/bin/bench worker
+2025-10-30 00:29:21,829 INFO /usr/local/bin/bench start
+2025-10-30 00:29:23,111 INFO /usr/local/bin/bench schedule
+2025-10-30 00:29:23,174 INFO /usr/local/bin/bench serve --port 8000
+2025-10-30 00:29:23,205 INFO /usr/local/bin/bench watch
+2025-10-30 00:29:23,916 INFO /usr/local/bin/bench worker
+2025-10-30 00:31:23,534 INFO /usr/local/bin/bench start
+2025-10-30 00:31:25,167 INFO /usr/local/bin/bench watch
+2025-10-30 00:31:25,222 INFO /usr/local/bin/bench worker
+2025-10-30 00:31:25,309 INFO /usr/local/bin/bench serve --port 8000
+2025-10-30 00:31:25,827 INFO /usr/local/bin/bench schedule
+2025-10-30 00:32:41,333 INFO /usr/local/bin/bench start
+2025-10-30 00:32:42,540 INFO /usr/local/bin/bench schedule
+2025-10-30 00:32:42,619 INFO /usr/local/bin/bench watch
+2025-10-30 00:32:42,875 INFO /usr/local/bin/bench worker
+2025-10-30 00:32:43,646 INFO /usr/local/bin/bench serve --port 8000
+2025-10-30 00:36:35,616 INFO /usr/local/bin/bench migarte
+2025-10-30 00:36:42,456 INFO /usr/local/bin/bench migrate
+2025-10-30 00:42:53,882 INFO /usr/local/bin/bench start
+2025-10-30 00:43:55,667 INFO /usr/local/bin/bench start
+2025-10-30 00:45:06,708 INFO /usr/local/bin/bench start
+2025-10-30 00:45:44,644 INFO /usr/local/bin/bench start
+2025-10-30 00:45:45,611 INFO /usr/local/bin/bench serve --port 8000
+2025-10-30 00:45:45,665 INFO /usr/local/bin/bench watch
+2025-10-30 00:45:46,305 INFO /usr/local/bin/bench schedule
+2025-10-30 00:45:46,626 INFO /usr/local/bin/bench worker
+2025-10-30 13:22:52,758 INFO /usr/local/bin/bench start
+2025-10-30 13:22:56,650 INFO /usr/local/bin/bench watch
+2025-10-30 13:22:56,720 INFO /usr/local/bin/bench schedule
+2025-10-30 13:22:56,724 INFO /usr/local/bin/bench serve --port 8000
+2025-10-30 13:22:56,998 INFO /usr/local/bin/bench worker
+2025-10-30 22:03:56,573 INFO /usr/local/bin/bench migrate
+2025-10-30 22:06:02,194 INFO /usr/local/bin/bench migrate
+2025-10-30 22:06:31,528 INFO /usr/local/bin/bench start
+2025-10-30 22:08:07,409 INFO /usr/local/bin/bench start
+2025-10-30 22:08:07,841 INFO /usr/local/bin/bench watch
+2025-10-30 22:08:08,120 INFO /usr/local/bin/bench serve --port 8000
+2025-10-30 22:08:08,317 INFO /usr/local/bin/bench worker
+2025-10-30 22:08:08,761 INFO /usr/local/bin/bench schedule
+2025-10-30 22:56:27,884 INFO /usr/local/bin/bench migrate
+2025-10-30 22:57:32,201 INFO /usr/local/bin/bench restart
+2025-10-30 22:57:33,567 INFO A newer version of bench is available: 5.25.11 → 5.26.0
+2025-10-30 22:57:46,368 INFO /usr/local/bin/bench start
+2025-10-30 22:57:47,835 INFO /usr/local/bin/bench schedule
+2025-10-30 22:57:47,995 INFO /usr/local/bin/bench serve --port 8000
+2025-10-30 22:59:20,250 INFO /usr/local/bin/bench start
+2025-10-30 22:59:20,863 INFO /usr/local/bin/bench worker
+2025-10-30 22:59:21,009 INFO /usr/local/bin/bench serve --port 8000
+2025-10-30 22:59:21,037 INFO /usr/local/bin/bench schedule
+2025-10-30 22:59:21,233 INFO /usr/local/bin/bench watch
+2025-10-30 23:43:17,529 INFO /usr/local/bin/bench migrate
+2025-10-30 23:44:49,704 INFO /usr/local/bin/bench restart
+2025-10-30 23:44:51,388 INFO A newer version of bench is available: 5.25.11 → 5.26.0
+2025-10-30 23:44:55,043 INFO /usr/local/bin/bench start
+2025-10-30 23:47:11,737 INFO /usr/local/bin/bench start
+2025-10-30 23:47:12,266 INFO /usr/local/bin/bench watch
+2025-10-30 23:47:12,490 INFO /usr/local/bin/bench serve --port 8000
+2025-10-30 23:47:12,496 INFO /usr/local/bin/bench worker
+2025-10-30 23:47:12,762 INFO /usr/local/bin/bench schedule
+2025-10-31 00:00:08,337 INFO /usr/local/bin/bench --verbose --site all backup
+2025-10-31 00:07:19,085 INFO /usr/local/bin/bench start
+2025-10-31 00:07:20,533 INFO /usr/local/bin/bench schedule
+2025-10-31 00:07:20,704 INFO /usr/local/bin/bench watch
+2025-10-31 00:07:20,978 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 00:07:21,499 INFO /usr/local/bin/bench worker
+2025-10-31 00:20:24,015 INFO /usr/local/bin/bench clear-cache
+2025-10-31 00:20:32,224 INFO /usr/local/bin/bench clear-website-cache
+2025-10-31 00:20:39,961 INFO /usr/local/bin/bench restart
+2025-10-31 00:20:41,142 INFO A newer version of bench is available: 5.25.11 → 5.26.0
+2025-10-31 00:20:56,131 INFO /usr/local/bin/bench start
+2025-10-31 00:23:24,300 INFO /usr/local/bin/bench start
+2025-10-31 00:23:25,051 INFO /usr/local/bin/bench schedule
+2025-10-31 00:23:25,138 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 00:23:25,228 INFO /usr/local/bin/bench watch
+2025-10-31 00:23:25,285 INFO /usr/local/bin/bench worker
+2025-10-31 00:32:02,711 INFO /usr/local/bin/bench migrate
+2025-10-31 00:32:18,263 INFO /usr/local/bin/bench start
+2025-10-31 00:32:20,040 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 00:32:20,095 INFO /usr/local/bin/bench schedule
+2025-10-31 00:32:20,171 INFO /usr/local/bin/bench worker
+2025-10-31 00:32:20,414 INFO /usr/local/bin/bench watch
+2025-10-31 00:33:05,761 INFO /usr/local/bin/bench start
+2025-10-31 00:33:10,487 INFO /usr/local/bin/bench migrate
+2025-10-31 00:34:15,253 INFO /usr/local/bin/bench start
+2025-10-31 00:38:52,490 INFO /usr/local/bin/bench start
+2025-10-31 00:38:53,054 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 00:38:53,080 INFO /usr/local/bin/bench watch
+2025-10-31 00:38:53,102 INFO /usr/local/bin/bench worker
+2025-10-31 00:38:53,247 INFO /usr/local/bin/bench schedule
+2025-10-31 00:52:24,980 INFO /usr/local/bin/bench clear-cache
+2025-10-31 00:52:38,457 INFO /usr/local/bin/bench restart
+2025-10-31 00:52:39,499 INFO A newer version of bench is available: 5.25.11 → 5.26.0
+2025-10-31 00:52:42,337 INFO /usr/local/bin/bench start
+2025-10-31 00:54:25,056 INFO /usr/local/bin/bench start
+2025-10-31 00:54:26,050 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 00:54:26,307 INFO /usr/local/bin/bench schedule
+2025-10-31 00:54:26,542 INFO /usr/local/bin/bench worker
+2025-10-31 00:54:26,777 INFO /usr/local/bin/bench watch
+2025-10-31 01:03:13,791 INFO /usr/local/bin/bench migrate
+2025-10-31 01:04:53,926 INFO /usr/local/bin/bench restart
+2025-10-31 01:04:56,086 INFO A newer version of bench is available: 5.25.11 → 5.26.0
+2025-10-31 01:04:59,856 INFO /usr/local/bin/bench start
+2025-10-31 01:06:53,132 INFO /usr/local/bin/bench start
+2025-10-31 01:06:54,359 INFO /usr/local/bin/bench watch
+2025-10-31 01:06:54,480 INFO /usr/local/bin/bench schedule
+2025-10-31 01:06:54,561 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 01:06:54,589 INFO /usr/local/bin/bench worker
+2025-10-31 10:42:52,017 INFO /usr/local/bin/bench staet
+2025-10-31 10:43:12,779 INFO /usr/local/bin/bench start
+2025-10-31 10:43:16,662 INFO /usr/local/bin/bench watch
+2025-10-31 10:43:16,839 INFO /usr/local/bin/bench schedule
+2025-10-31 10:43:16,908 INFO /usr/local/bin/bench worker
+2025-10-31 10:43:17,105 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 10:51:21,866 INFO /usr/local/bin/bench console
+2025-10-31 10:56:11,741 INFO /usr/local/bin/bench migrate
+2025-10-31 10:57:11,992 INFO /usr/local/bin/bench start
+2025-10-31 11:01:50,887 INFO /usr/local/bin/bench start
+2025-10-31 11:01:51,894 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 11:01:52,064 INFO /usr/local/bin/bench worker
+2025-10-31 11:01:52,643 INFO /usr/local/bin/bench schedule
+2025-10-31 11:01:52,743 INFO /usr/local/bin/bench watch
+2025-10-31 11:02:47,885 INFO /usr/local/bin/bench console
+2025-10-31 11:32:53,852 INFO /usr/local/bin/bench start
+2025-10-31 11:35:25,028 INFO /usr/local/bin/bench start
+2025-10-31 11:35:26,260 INFO /usr/local/bin/bench worker
+2025-10-31 11:35:26,292 INFO /usr/local/bin/bench schedule
+2025-10-31 11:35:26,748 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 11:35:26,941 INFO /usr/local/bin/bench watch
+2025-10-31 12:00:06,174 INFO /usr/local/bin/bench --verbose --site all backup
+2025-10-31 12:44:36,408 INFO /usr/local/bin/bench migarte
+2025-10-31 12:44:42,590 INFO /usr/local/bin/bench migrate
+2025-10-31 12:49:45,737 INFO /usr/local/bin/bench start
+2025-10-31 12:49:47,141 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 12:49:47,428 INFO /usr/local/bin/bench watch
+2025-10-31 12:49:47,524 INFO /usr/local/bin/bench worker
+2025-10-31 12:51:07,554 INFO /usr/local/bin/bench start
+2025-10-31 12:51:08,192 INFO /usr/local/bin/bench schedule
+2025-10-31 12:51:08,246 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 12:51:08,274 INFO /usr/local/bin/bench watch
+2025-10-31 12:51:08,974 INFO /usr/local/bin/bench worker
+2025-10-31 12:55:09,880 INFO /usr/local/bin/bench start
+2025-10-31 12:55:11,138 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 12:55:11,138 INFO /usr/local/bin/bench schedule
+2025-10-31 12:55:11,181 INFO /usr/local/bin/bench watch
+2025-10-31 12:55:11,411 INFO /usr/local/bin/bench worker
+2025-10-31 13:54:15,229 INFO /usr/local/bin/bench start
+2025-10-31 13:56:07,047 INFO /usr/local/bin/bench start
+2025-10-31 13:56:07,735 INFO /usr/local/bin/bench worker
+2025-10-31 13:56:07,882 INFO /usr/local/bin/bench schedule
+2025-10-31 13:56:07,920 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 13:56:07,951 INFO /usr/local/bin/bench watch
+2025-10-31 13:59:48,588 INFO /usr/local/bin/bench migrate
+2025-10-31 14:11:19,286 INFO /usr/local/bin/bench start
+2025-10-31 14:13:18,369 INFO /usr/local/bin/bench start
+2025-10-31 14:13:19,394 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 14:13:19,546 INFO /usr/local/bin/bench worker
+2025-10-31 14:13:19,641 INFO /usr/local/bin/bench watch
+2025-10-31 14:13:19,917 INFO /usr/local/bin/bench schedule
+2025-10-31 15:02:54,711 INFO /usr/local/bin/bench migrate
+2025-10-31 15:04:35,775 INFO /usr/local/bin/bench restart
+2025-10-31 15:04:37,377 INFO A newer version of bench is available: 5.25.11 → 5.26.0
+2025-10-31 15:04:42,017 INFO /usr/local/bin/bench start
+2025-10-31 15:06:34,472 INFO /usr/local/bin/bench start
+2025-10-31 15:06:36,264 INFO /usr/local/bin/bench schedule
+2025-10-31 15:06:36,351 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 15:06:36,397 INFO /usr/local/bin/bench worker
+2025-10-31 15:06:36,432 INFO /usr/local/bin/bench watch
+2025-10-31 16:45:59,221 INFO /usr/local/bin/bench start
+2025-10-31 16:59:48,008 INFO /usr/local/bin/bench start
+2025-10-31 16:59:49,294 INFO /usr/local/bin/bench worker
+2025-10-31 16:59:49,567 INFO /usr/local/bin/bench schedule
+2025-10-31 16:59:49,646 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 16:59:49,679 INFO /usr/local/bin/bench watch
+2025-10-31 19:26:13,744 INFO /usr/local/bin/bench start
+2025-10-31 19:26:16,135 INFO /usr/local/bin/bench watch
+2025-10-31 19:26:16,347 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 19:26:16,412 INFO /usr/local/bin/bench worker
+2025-10-31 19:26:16,532 INFO /usr/local/bin/bench schedule
+2025-10-31 22:35:02,663 INFO /usr/local/bin/bench start
+2025-10-31 22:35:04,634 INFO /usr/local/bin/bench watch
+2025-10-31 22:35:04,882 INFO /usr/local/bin/bench serve --port 8000
+2025-10-31 22:35:04,913 INFO /usr/local/bin/bench worker
+2025-10-31 22:35:05,027 INFO /usr/local/bin/bench schedule
+2025-11-01 19:52:01,671 INFO /usr/local/bin/bench start
+2025-11-01 19:52:03,843 INFO /usr/local/bin/bench watch
+2025-11-01 19:52:03,980 INFO /usr/local/bin/bench serve --port 8000
+2025-11-01 19:52:04,090 INFO /usr/local/bin/bench worker
+2025-11-01 19:52:04,105 INFO /usr/local/bin/bench schedule
+2025-11-01 21:18:15,830 INFO /usr/local/bin/bench start
+2025-11-01 21:20:25,968 INFO /usr/local/bin/bench start
+2025-11-01 21:20:26,453 INFO /usr/local/bin/bench serve --port 8000
+2025-11-01 21:20:26,532 INFO /usr/local/bin/bench watch
+2025-11-01 21:20:26,602 INFO /usr/local/bin/bench schedule
+2025-11-01 21:20:26,786 INFO /usr/local/bin/bench worker
+2025-11-01 21:52:38,744 INFO /usr/local/bin/bench migrate
+2025-11-01 21:55:28,270 INFO /usr/local/bin/bench restart
+2025-11-01 21:55:36,786 INFO A newer version of bench is available: 5.25.11 → 5.26.0
+2025-11-01 21:55:45,150 INFO /usr/local/bin/bench start
+2025-11-01 21:55:46,657 INFO /usr/local/bin/bench worker
+2025-11-01 21:55:46,900 INFO /usr/local/bin/bench watch
+2025-11-01 21:55:46,905 INFO /usr/local/bin/bench serve --port 8000
+2025-11-01 21:55:47,065 INFO /usr/local/bin/bench schedule
+2025-11-01 21:57:19,860 INFO /usr/local/bin/bench start
+2025-11-01 21:57:20,757 INFO /usr/local/bin/bench watch
+2025-11-01 21:57:20,851 INFO /usr/local/bin/bench worker
+2025-11-01 21:57:21,371 INFO /usr/local/bin/bench serve --port 8000
+2025-11-01 21:57:21,802 INFO /usr/local/bin/bench schedule
+2025-11-01 23:24:21,915 INFO /usr/local/bin/bench start
+2025-11-01 23:24:25,694 INFO /usr/local/bin/bench serve --port 8000
+2025-11-01 23:24:26,937 INFO /usr/local/bin/bench watch
+2025-11-01 23:24:27,055 INFO /usr/local/bin/bench worker
+2025-11-01 23:24:27,205 INFO /usr/local/bin/bench schedule
+2025-11-02 00:00:07,343 INFO /usr/local/bin/bench --verbose --site all backup
+2025-11-02 00:17:53,504 INFO /usr/local/bin/bench start
+2025-11-02 00:17:57,390 INFO /usr/local/bin/bench schedule
+2025-11-02 00:17:57,398 INFO /usr/local/bin/bench serve --port 8000
+2025-11-02 00:17:57,600 INFO /usr/local/bin/bench watch
+2025-11-02 00:17:57,910 INFO /usr/local/bin/bench worker
+2025-11-02 01:44:18,936 INFO /usr/local/bin/bench --site newsite.com execute erpnext.special_price_approval.create_special_price_field_in_sales_order
+2025-11-02 01:44:51,894 INFO /usr/local/bin/bench --site newsite.com execute erpnext[C\.special_price_approval.create_special_price_field_in_sales_order
+2025-11-02 01:45:13,822 INFO /usr/local/bin/bench --site newsite.com execute special_price_approval.create_special_price_field_in_sales_order
+2025-11-02 01:45:27,046 INFO /usr/local/bin/bench --site newsite.com execute special_price_approval.create_special_price_field_in_sales_order
+2025-11-02 02:08:05,577 INFO /usr/local/bin/bench start
+2025-11-02 02:10:28,151 INFO /usr/local/bin/bench start
+2025-11-02 02:10:28,997 INFO /usr/local/bin/bench serve --port 8000
+2025-11-02 02:10:29,317 INFO /usr/local/bin/bench schedule
+2025-11-02 02:10:29,628 INFO /usr/local/bin/bench watch
+2025-11-02 02:10:29,860 INFO /usr/local/bin/bench worker
+2025-11-02 13:41:13,311 INFO /usr/local/bin/bench start
+2025-11-02 13:41:20,665 INFO /usr/local/bin/bench watch
+2025-11-02 13:41:20,847 INFO /usr/local/bin/bench serve --port 8000
+2025-11-02 13:41:21,427 INFO /usr/local/bin/bench schedule
+2025-11-02 13:41:21,791 INFO /usr/local/bin/bench worker
+2025-11-02 14:01:04,484 INFO /usr/local/bin/bench migrate
+2025-11-02 14:01:51,575 INFO /usr/local/bin/bench restart
+2025-11-02 14:01:53,351 INFO A newer version of bench is available: 5.25.11 → 5.26.0
+2025-11-02 14:01:58,500 INFO /usr/local/bin/bench start
+2025-11-02 14:04:28,993 INFO /usr/local/bin/bench start
+2025-11-02 14:04:29,616 INFO /usr/local/bin/bench serve --port 8000
+2025-11-02 14:04:29,735 INFO /usr/local/bin/bench schedule
+2025-11-02 14:04:29,881 INFO /usr/local/bin/bench worker
+2025-11-02 14:04:29,912 INFO /usr/local/bin/bench watch
+2025-11-02 15:46:38,130 INFO /usr/local/bin/bench add .
